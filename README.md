@@ -8,7 +8,7 @@
 </p>
 
 ## Avant de commencer
-Pour accéder au site, il faut rajouter sauces dans à la fin de l'url
+Pour accéder au site, il faut rajouter sauces à la fin de l'url
 
 ## About Laravel
 
